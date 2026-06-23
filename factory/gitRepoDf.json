@@ -1,0 +1,15 @@
+{
+	"name": "gitRepoDf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ced1aa84-bd14-4a67-b89e-d9b59a2fa6fa",
+		"tenantId": "cde80cf7-5760-4d75-926f-0d169c8dcb35"
+	}
+}
